@@ -1,0 +1,8 @@
+{
+  "host":"localhost",
+  "port_from":50252,
+  "port_to":50343,
+  "user": "etl",
+  "password": "etl_contest",
+  "db":"sandbox"
+}
